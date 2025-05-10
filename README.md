@@ -38,8 +38,8 @@ This project implements an interactive, accessible, and high-performance geograp
 - Partial rendering: updates only what is needed
 - Preloaded map data for speed
 
-![alt text](images\image.png) 
-![alt text](images\image-1.png)
+![alt text](images/image.png) 
+![alt text](images/image-1.png)
 
 ---
 
@@ -57,9 +57,9 @@ This project implements an interactive, accessible, and high-performance geograp
 - **ACO (Ant Colony Optimization)**: pheromone-inspired global search
 - **2-Opt / 3-Opt**: fine-tune route paths for travel-time reduction
 
-![alt text](images\image84.jpg)
-![alt text](images\image94.png)
-![alt text](images\image89.jpg)
+![alt text](images/image84.jpg)
+![alt text](images/image94.png)
+![alt text](images/image89.jpg)
 
 ---
 
@@ -68,8 +68,8 @@ This project implements an interactive, accessible, and high-performance geograp
 - **Language Switch**: auto-detect spoken language and switch UI
 - **Instructional Aids**: route arrows, hover info, helper videos
 
-![alt text](images\image83.png)
-![alt text](images\image114.png)
+![alt text](images/image83.png)
+![alt text](images/image114.png)
 
 ---
 
