@@ -3,6 +3,7 @@
 ---
 
 ## ✨ Project Overview
+➡️ View our full presentation [here](https://docs.google.com/presentation/...)  
 
 This project implements an interactive, accessible, and high-performance geographic map system. The system provides:
 - ✅ **Accessible navigation** for users with color-blindness or language barriers
@@ -21,6 +22,14 @@ This project implements an interactive, accessible, and high-performance geograp
 | **M4** | Implemented simulated annealing + ACO courier routing engine |
 
 ---
+## 🛠️ Tech Stack
+
+- **Language**: C++17  
+- **Graphics Library**: [EZGL](https://ug251.eecg.utoronto.ca/ece297s/ezgl_doc/index.html) – simple abstraction over GTK for GUI drawing  
+- **GUI Framework**: GTK+3  
+- **Development Environment**: Ubuntu with X11 forwarding / local GTK setup  
+- **Editor**: Visual Studio Code / CLion with remote debugging
+---
 
 ## 🔍 Features
 
@@ -29,8 +38,8 @@ This project implements an interactive, accessible, and high-performance geograp
 - Partial rendering: updates only what is needed
 - Preloaded map data for speed
 
-![alt text](image.png) 
-![alt text](image-1.png)
+![alt text](images\image.png) 
+![alt text](images\image-1.png)
 
 ---
 
@@ -48,8 +57,9 @@ This project implements an interactive, accessible, and high-performance geograp
 - **ACO (Ant Colony Optimization)**: pheromone-inspired global search
 - **2-Opt / 3-Opt**: fine-tune route paths for travel-time reduction
 
-![alt text](image84.jpg)
-![alt text](image94.png)
+![alt text](images\image84.jpg)
+![alt text](images\image94.png)
+![alt text](images\image89.jpg)
 
 ---
 
@@ -58,8 +68,8 @@ This project implements an interactive, accessible, and high-performance geograp
 - **Language Switch**: auto-detect spoken language and switch UI
 - **Instructional Aids**: route arrows, hover info, helper videos
 
-![alt text](image83.png)
-![alt text](image114.png)
+![alt text](images\image83.png)
+![alt text](images\image114.png)
 
 ---
 
@@ -83,10 +93,10 @@ This project implements an interactive, accessible, and high-performance geograp
 
 ## 📚 References
 
-For full sources, see slide 66 of our final presentation. Major citations include:
-- Colblindor: Color-blind simulation
-- Nielsen Norman Group: UI responsiveness
-- Kakao Maps Tech Blog
+[🔗 View Our Final Presentation (Google Slides)](https://docs.google.com/presentation/d/15y97ETW6AfkCTlMkzRorLlXkuzb7-MtjOM6yxGsZD6o/edit?usp=sharing)
+
+⚠️ Note: Due to University of Toronto academic policies, we are not permitted to publicly release the source code of this project.
+
 
 ---
 
