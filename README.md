@@ -3,7 +3,7 @@
 ---
 
 ## ✨ Project Overview
-➡️ View our full presentation [here](https://docs.google.com/presentation/...)  
+➡️ View our full presentation [here](https://docs.google.com/presentation/d/15y97ETW6AfkCTlMkzRorLlXkuzb7-MtjOM6yxGsZD6o/edit?usp=sharing)  
 
 This project implements an interactive, accessible, and high-performance geographic map system. The system provides:
 - ✅ **Accessible navigation** for users with color-blindness or language barriers
@@ -58,8 +58,9 @@ This project implements an interactive, accessible, and high-performance geograp
 - **2-Opt / 3-Opt**: fine-tune route paths for travel-time reduction
 
 ![alt text](images/image84.jpg)
-![alt text](images/image94.png)
-![alt text](images/image89.jpg)
+<img src="images/image94.png" alt="alt text" width="400"/>
+<img src="images/image89.jpg" alt="alt text" width="400"/>
+
 
 ---
 
