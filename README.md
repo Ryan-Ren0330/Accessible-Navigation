@@ -48,6 +48,8 @@ This project implements an interactive, accessible, and high-performance geograp
 - Find closest intersections
 - Highlight and label results
 - Built with performance constraints: <0.1s interactions
+- Autocomplete Input: dynamically suggests full street names as the user types
+<img src="images/99.png" alt="Street Name Autocomplete" width="300"/>
 
 ---
 
@@ -60,6 +62,15 @@ This project implements an interactive, accessible, and high-performance geograp
 ![alt text](images/image84.jpg)
 <img src="images/image94.png" alt="alt text" width="400"/>
 <img src="images/image89.jpg" alt="alt text" width="400"/>
+
+
+---
+### 🚦 Real-Time Traffic Visualization
+- **Construction Zones API**: fetches and updates live roadwork data
+- **Symbol Rendering**: displays construction signs directly on the map
+- **Visual Awareness**: enables couriers to avoid areas under maintenance
+
+<img src="images/image80.png" alt="Traffic Overlay Example" width="500"/>
 
 
 ---
